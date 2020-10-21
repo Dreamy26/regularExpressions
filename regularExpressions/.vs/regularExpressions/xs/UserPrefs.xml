@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D0C58A8D-79AD-43A2-BEA9-7F95286C2A33}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="regularExpressions/Program.cs">
+    <Files>
+      <File FileName="regularExpressions/Program.cs" Line="11" Column="9" />
+      <File FileName="notes.md" Line="9" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="regularExpressions" expanded="True">
+            <Node name="regularExpressions" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.regularExpressions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

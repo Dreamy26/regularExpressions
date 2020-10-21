@@ -1,0 +1,6 @@
+/Users/dreamy/Projects/grandCircus_New/10_october/regularExpressions/regularExpressions/regularExpressions/obj/Debug/regularExpressions.csprojAssemblyReference.cache
+/Users/dreamy/Projects/grandCircus_New/10_october/regularExpressions/regularExpressions/regularExpressions/obj/Debug/regularExpressions.csproj.CoreCompileInputs.cache
+/Users/dreamy/Projects/grandCircus_New/10_october/regularExpressions/regularExpressions/regularExpressions/bin/Debug/regularExpressions.exe
+/Users/dreamy/Projects/grandCircus_New/10_october/regularExpressions/regularExpressions/regularExpressions/bin/Debug/regularExpressions.pdb
+/Users/dreamy/Projects/grandCircus_New/10_october/regularExpressions/regularExpressions/regularExpressions/obj/Debug/regularExpressions.exe
+/Users/dreamy/Projects/grandCircus_New/10_october/regularExpressions/regularExpressions/regularExpressions/obj/Debug/regularExpressions.pdb
