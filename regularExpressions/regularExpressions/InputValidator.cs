@@ -19,12 +19,14 @@ namespace regularExpressions
         //req2
         public static bool ValidateEmail(string userEmail)
         {
+            // https://regexr.com
             Regex regex = new Regex(@"[\w._%+-]{5,30}@[\w.-]{5,10}\.[a-zA-Z]{2,3}");
             return regex.Match(userEmail).Success;
         }
         //req3
         public static bool ValidatePhoneNumber(string userPhoneNumber)
         {
+            // https://regexr.com
             Regex regex = new Regex(@"[0-9]{3}[-][0-9]{3}[-][0-9]{4}");
             return regex.Match(userPhoneNumber).Success;
             //call method w/out user interaction
@@ -33,6 +35,7 @@ namespace regularExpressions
         //req4
         public static bool ValidateDateFormat(string dateFormat)
         {
+            // https://regexr.com
             //(dd/mm/yyyy)
             Regex regex = new Regex(@"^(3[01]|[12][0-9]|[1-9])[/](1[0-2]|[1-9])[/](\d{4})");
             return regex.Match(dateFormat).Success;
