@@ -5,6 +5,7 @@ namespace regularExpressions
 {
     public static class InputValidator
     {
+        //req1
         //all methods return something and should start with a Cap
         public static bool ValidateName(string userName)
         {
@@ -15,11 +16,13 @@ namespace regularExpressions
             }
             return false;
         }
+        //req2
         public static bool ValidateEmail(string userEmail)
         {
             Regex regex = new Regex(@"[\w._%+-]{5,30}@[\w.-]{5,10}\.[a-zA-Z]{2,3}");
             return regex.Match(userEmail).Success;
         }
+        //req3
         public static bool ValidatePhoneNumber(string userPhoneNumber)
         {
             Regex regex = new Regex(@"[0-9]{3}[-][0-9]{3}[-][0-9]{4}");
@@ -27,6 +30,7 @@ namespace regularExpressions
             //call method w/out user interaction
             //test email
         }
+        //req4
         public static bool ValidateDateFormat(string dateFormat)
         {
             //(dd/mm/yyyy)
