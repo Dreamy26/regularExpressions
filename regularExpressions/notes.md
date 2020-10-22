@@ -51,6 +51,8 @@ characters, with a length between 5 and 10, w/no special characters}.
 ## CSharp SoSharp
 
 ## Resources
+[oreilly reg expressions](https://www.oreilly.com/library/view/regular-expressions-cookbook/9781449327453/ch06s07.html) 
+[stackover flow regex gems](https://stackoverflow.com/questions/4374185/regular-expression-match-to-test-for-a-valid-year)
 
 
 ## Questions
