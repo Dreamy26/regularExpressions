@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{D0C58A8D-79AD-43A2-BEA9-7F95286C2A33}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="regularExpressions/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="regularExpressions/InputValidator.cs">
     <Files>
-      <File FileName="regularExpressions/Program.cs" Line="11" Column="9" />
-      <File FileName="notes.md" Line="9" Column="18" />
+      <File FileName="regularExpressions/Program.cs" Line="19" Column="6" />
+      <File FileName="regularExpressions/InputValidator.cs" Line="6" Column="8" />
+      <File FileName="notes.md" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="regularExpressions" expanded="True">
             <Node name="regularExpressions" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="InputValidator.cs" selected="True" />
             </Node>
           </Node>
         </State>
